@@ -1,3 +1,3 @@
 # randomCat
 
-Usando o fetch para consumir api publica de imagens de gatos
+Usando o fetch para consumir api publica de imagens de gatinhos
