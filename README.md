@@ -1,2 +1,3 @@
 # randomCat
-consumindo api pública de imagens aleatórias com javascript
+
+Usando o fetch para consumir api publica de imagens de gatos
